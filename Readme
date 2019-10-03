@@ -1,0 +1,5 @@
+To execute this application you need to clone project to your desctop
+and execute project
+
+ExoPlayer used as a video player not work properly with old sdk emulators
+> 23 -> work fine
